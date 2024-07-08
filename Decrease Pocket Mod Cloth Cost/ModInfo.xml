@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="Decrease Pocket Mod Cloth Cost" />
+	<DisplayName value="Decrease Pocket Mod Cloth Cost" />
+	<Description value="Decreases the cloth cost of the pocket mods from 100 and 200 to 10 and 20 respectively" />
+	<Author value="sahar1213" />
+	<Version value="1.0" />
+</xml>
